@@ -1,0 +1,103 @@
+body.imagens {
+    background-image: url('imagens/parede.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+header {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente para melhor legibilidade */
+    padding: 5vw;
+    border-radius: 1vw;
+}
+header h1 {
+    font-size: 7vw;
+    margin: auto;
+    padding: 1vw;
+    margin-bottom: 1vw;
+}
+header h2 {
+    font-size: 4vw;
+    margin: auto;
+}
+nav p {
+    text-align: center;
+    padding: 1vw;
+    border-radius: 1vw;
+    margin-bottom: 1vw;
+    font-size: 3vw;
+}
+main {
+    padding: 1vw;
+    border-radius: 1vw;
+    text-align: left;
+}
+main.missao {
+    margin-bottom: 1vw;
+    text-align: left;
+}
+main.valores {
+    margin-bottom: 1vw;
+    text-align: left;
+}
+ul {
+    list-style-position: inside;
+    padding-right: 1vw;
+    color: white;
+    font-size: 3vw;
+    margin-bottom: 1vw;
+}
+main h2 {
+    font-size: 5vw;
+    margin-bottom: 1vw;
+    text-align: left;
+    color: rgb(154, 185, 206);
+}
+main p {
+    font-size: 3vw;
+    line-height: 1.6;
+    padding: 1vw;
+    margin-bottom: 1vw;
+}
+section {
+    margin-bottom: 2vw;
+    background-color: rgb(238, 212, 165); /* Fundo semi-transparente para melhor legibilidade */
+    padding: 1vw;
+    border-radius: 1vw;
+    text-align: center;
+    color: black;
+}
+section h2 {
+    font-size: 3vw;
+    margin-bottom: auto;
+    text-align:center;
+    color: black;
+}
+section p {
+    font-size: 3vw;
+    line-height: 1.6vw;
+    text-align: center;
+    color: rgb(154, 185, 206);
+}
+section a {
+    color: rgb(154, 185, 206);
+    text-decoration: none;
+    font-weight: bold;
+} 
+footer {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente para melhor legibilidade */
+    padding: 2vw;
+    border-radius: 1vw;
+    font-size: 2vw;
+    color: rgb(154, 185, 206);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer a {
+    color: rgb(154, 185, 206);
+    text-decoration: none;
+    font-weight: bold;
+}
+  
